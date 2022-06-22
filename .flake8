@@ -1,0 +1,3 @@
+[flake8]
+# see error codes here: http://flake8.pychond.com/en/latest/user/error-codes.html
+max-line-length = 120

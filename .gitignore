@@ -1,0 +1,10 @@
+.python-version
+.DS_Store
+.idea/
+.vscode/
+.pytest_cache/
+.mypy_cache/
+.tox/
+*/__pycache__/
+__pycache__/
+notebooks/.ipynb_checkpoints/
